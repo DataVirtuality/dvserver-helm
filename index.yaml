@@ -3,12 +3,12 @@ entries:
   dvplatform:
   - apiVersion: v2
     appVersion: "3.5"
-    created: "2023-03-10T20:59:16.208054+05:00"
+    created: "2023-03-10T21:12:41.117242+05:00"
     description: Data Virtuality Platform
     digest: 6da30d39d30d5c60c9b9861e0049fdcd167d567ec43f301bd60c398d2f9bd230
     name: dvplatform
     type: application
     urls:
-    - https://github.com/DataVirtuality/dvserver-helm.git/dvplatform-3.5.0.tgz
+    - https://datavirtuality.github.io/dvserver-helm/dvplatform-3.5.0.tgz
     version: 3.5.0
-generated: "2023-03-10T20:59:16.206732+05:00"
+generated: "2023-03-10T21:12:41.115952+05:00"

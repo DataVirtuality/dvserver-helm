@@ -20,7 +20,7 @@ To install the latest version of this chart, add the DV Platform helm repository
 and run `helm install`:
 
 ```console
-$ helm repo add dvplatform https://github.com/DataVirtuality/dvserver-helm.git/
+$ helm repo add dvplatform https://datavirtuality.github.io/dvserver-helm/
 "dvplatform" has been added to your repositories
 
 $ helm install vault dvplatform/dvplatform
