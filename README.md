@@ -26,6 +26,4 @@ $ helm repo add dvplatform https://datavirtuality.github.io/dvserver-helm/
 $ helm install vault dvplatform/dvplatform
 ```
 
-Please see the many options supported in the `values.yaml` file. These are also
-fully documented directly on the [DV Platform website](https://docs.datavirtuality.com/v3/?l=en) along with more
-detailed installation instructions.
+Please see the many options supported in the `values.yaml` file.
