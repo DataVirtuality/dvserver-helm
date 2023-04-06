@@ -23,7 +23,7 @@ and run `helm install`:
 $ helm repo add dvplatform https://datavirtuality.github.io/dvserver-helm/
 "dvplatform" has been added to your repositories
 
-$ helm install vault dvplatform/dvplatform
+$ helm install dvplatform dvplatform/dvplatform
 ```
 
 Please see the many options supported in the `values.yaml` file.
