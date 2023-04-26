@@ -3,9 +3,9 @@ entries:
   dvplatform:
   - apiVersion: v2
     appVersion: 4.0.2
-    created: "2023-04-25T18:58:29.712127+05:00"
+    created: "2023-04-26T07:31:19.533315+05:00"
     description: Data Virtuality Platform
-    digest: 046ae60e922bb3c7b45ea3fab987a17bbffa738564081bdc3f8b4f6a4fbded8c
+    digest: 1a0614f528f36583825ad3eb46739372b47ccb4df24b04bf13a05a8bdab64998
     name: dvplatform
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 4.0.2
   - apiVersion: v2
     appVersion: 4.0.1
-    created: "2023-04-25T18:58:29.711367+05:00"
+    created: "2023-04-26T07:31:19.531818+05:00"
     description: Data Virtuality Platform
     digest: 8696642053c7bac5cbc4c78a8a437b8498e9f3a4479f20ebfafbe401c637bb2c
     name: dvplatform
@@ -23,7 +23,7 @@ entries:
     version: 4.0.1
   - apiVersion: v2
     appVersion: "3.5"
-    created: "2023-04-25T18:58:29.70846+05:00"
+    created: "2023-04-26T07:31:19.528193+05:00"
     description: Data Virtuality Platform
     digest: 6da30d39d30d5c60c9b9861e0049fdcd167d567ec43f301bd60c398d2f9bd230
     name: dvplatform
@@ -31,4 +31,4 @@ entries:
     urls:
     - https://datavirtuality.github.io/dvserver-helm/dvplatform-3.5.0.tgz
     version: 3.5.0
-generated: "2023-04-25T18:58:29.706349+05:00"
+generated: "2023-04-26T07:31:19.526963+05:00"
